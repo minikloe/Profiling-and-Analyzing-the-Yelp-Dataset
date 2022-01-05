@@ -6,3 +6,8 @@ Profiling and Analyzing the Yelp Dataset
 2. Using a dataset from a US-based organization called Yelp
 3. Run queries against the Yelp Data Set, write a variety of SQL statements. 
 4. Prepare the dataset for the analysis, come up with inferences and analysis of the data
+
+[Course Certificate](https://live.staticflickr.com/65535/51802668635_c448ef1195_k.jpg)
+
+
+
